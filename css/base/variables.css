@@ -1,0 +1,17 @@
+:root {
+    /*** colors ***/
+	--text-color-main: #404040;
+  --text-color-secondary: #9b9b9b;
+
+  /*** border ***/
+  --border-radius: 20px;
+
+  /*** z-index ***/
+  --z-scheme-sizes: 100;
+
+  /*** sizes ***/
+  --min-width-container: 1090px;
+  --max-width-container: 1090px;
+  --padding-lr-container: 30px;
+
+}
